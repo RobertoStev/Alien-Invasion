@@ -1,0 +1,10 @@
+E:\Alien Invasion\Alien Invasion\obj\Debug\Alien Invasion.csproj.AssemblyReference.cache
+E:\Alien Invasion\Alien Invasion\obj\Debug\Alien_Invasion.Form1.resources
+E:\Alien Invasion\Alien Invasion\obj\Debug\Alien_Invasion.Properties.Resources.resources
+E:\Alien Invasion\Alien Invasion\obj\Debug\Alien Invasion.csproj.GenerateResource.cache
+E:\Alien Invasion\Alien Invasion\obj\Debug\Alien Invasion.csproj.CoreCompileInputs.cache
+E:\Alien Invasion\Alien Invasion\bin\Debug\Alien Invasion.exe.config
+E:\Alien Invasion\Alien Invasion\bin\Debug\Alien Invasion.exe
+E:\Alien Invasion\Alien Invasion\bin\Debug\Alien Invasion.pdb
+E:\Alien Invasion\Alien Invasion\obj\Debug\Alien Invasion.exe
+E:\Alien Invasion\Alien Invasion\obj\Debug\Alien Invasion.pdb
